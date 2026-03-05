@@ -5,7 +5,7 @@ AI Developer • Machine Learning Enthusiast • Backend Engineer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F72E&center=true&vCenter=true&width=800&lines=AI+Developer;Machine+Learning+Enthusiast;Backend+Developer;Building+Intelligent+Systems;Python+%7C+C%2B%2B+%7C+FastAPI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F72E&center=true&vCenter=true&width=800&lines=AI+Developer;Machine+Learning+Enthusiast;Backend+Developer;Building+Intelligent+Systems;Python+%7C+C%2B%2B+%7C" />
 </p>
 <!-- Light mode snake -->
 <picture>
