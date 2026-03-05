@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Jagtap</h1>
+<h1 align="center">Hi, I'm Gaurav Jagtap</h1>
 
 <p align="center">
 🚀 AI Developer | 💻 Python Programmer | 🤖 Machine Learning Enthusiast
