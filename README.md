@@ -1,4 +1,4 @@
-<h1 align="center">𝙂𝘼𝙐𝙍𝘼𝙑 𝙅𝘼𝙂𝙏𝘼𝙋</h1>
+<h1 align="center">Hi, I am Gaurav Jagtap</h1>
 
 <p align="center">
 AI Developer • Machine Learning Enthusiast • Backend Engineer
