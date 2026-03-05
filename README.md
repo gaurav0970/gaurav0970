@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I am Gaurav Jagtap</h1>
-
 <p align="center">
-AI Developer • Machine Learning Enthusiast • Backend Engineer
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=GAURAV+JAGTAP;AI+Developer;Machine+Learning+Enthusiast;Backend+Engineer" />
 </p>
 
 <p align="center">
