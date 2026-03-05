@@ -1,13 +1,12 @@
-<h1 align="center">Hi, I'm Gaurav Jagtap</h1>
+<h1 align="center">𝙂𝘼𝙐𝙍𝘼𝙑 𝙅𝘼𝙂𝙏𝘼𝙋</h1>
 
 <p align="center">
-🚀 AI Developer | 💻 Python Programmer | 🤖 Machine Learning Enthusiast
+AI Developer • Machine Learning Enthusiast • Backend Engineer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F72E&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;AI+Developer;Python+%7C+C%2B%2B+Programmer;Machine+Learning+Explorer;Building+Cool+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F72E&center=true&vCenter=true&width=800&lines=AI+Developer;Machine+Learning+Enthusiast;Backend+Developer;Building+Intelligent+Systems;Python+%7C+C%2B%2B+%7C+FastAPI" />
 </p>
-
 <!-- Light mode snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurav0970/gaurav0970/output/github-snake-dark.svg" />
