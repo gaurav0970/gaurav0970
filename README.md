@@ -12,7 +12,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/gaurav0970/gaurav0970/output/github-snake.svg" />
 </picture>
 
----
 
 ## 💻 Tech Stack
 
@@ -42,7 +41,7 @@
 
 </div>
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -54,8 +53,6 @@
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -64,14 +61,13 @@
 
 </div>
 
----
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   "First, solve the problem. Then, write the code."          ║
+║     "First, solve the problem. Then, write the code."        ║
 ║                                        — John Johnson        ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
